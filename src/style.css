@@ -1,0 +1,48 @@
+.red{
+    height: 60px;
+    width: 60px;
+    background-color: red;
+    margin-right: 5px;
+}
+.blue{
+    height: 60px;
+    width: 60px;
+    background-color: blue;
+    margin-right: 5px;
+}
+.grey{
+    height: 60px;
+    width: 60px;
+    background-color: #A9A9A9;
+    margin-right: 5px;
+}
+.violet{
+    background-color: 	#8D38C9;
+    height: 60px;
+    width: 60px;
+    margin-right: 5px;
+}
+.panel-body{
+    display: flex;
+    flex-direction: row;
+}
+.row{
+    position: relative;
+    top: 100px;
+    left: 200px;
+}
+button{
+    margin-right: 5px;
+}
+.text{
+    max-width: 500px;
+    height: 60px;
+    border: 1px solid black;
+    position: relative;
+    top: 150px;
+    left: 200px;
+    text-align: center;
+}
+#p{
+    font-size: 12px;
+}
